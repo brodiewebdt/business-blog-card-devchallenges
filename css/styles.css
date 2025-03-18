@@ -5,10 +5,9 @@
 
   /* Neutral Colors */
   --color-neutral-100: hsl(0, 0%, 100%);
-  --color-neutral-200: hsl(210, 20%, 98%);
-  --color-neutral-300: hsl(220, 13%, 91%);
-  --color-neutral-400: hsl(221, 8%, 46%);
-  --color-neutral-800: hsl(219, 17%, 27%);
+  --color-neutral-300: hsl(214, 37%, 96%);
+  --color-neutral-400: hsl(217, 16%, 35%);
+  --color-neutral-800: hsl(225, 41%, 11%);
   --color-neutral-900: hsl(0, 0%, 0%);
 
   /* Font Family */
@@ -17,6 +16,7 @@
   /* Font Size */
   --fs-48: 3rem;
   --fs-32: 2rem;
+  --fs-24: 1.5rem;
   --fs-20: 1.25rem;
   --fs-18: 1.125rem;
   --fs-16: 1rem;
@@ -44,6 +44,7 @@
   --spacing-16: 1rem;
   --spacing-20: 1.25rem;
   --spacing-24: 1.5rem;
+  --spacing-32: 2rem;
   --spacing-60: 3.75rem;
   --spacing-80: 5rem;
 }
